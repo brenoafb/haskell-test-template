@@ -2,4 +2,4 @@ module Lib
     ( myStr
     ) where
 
-myStr = "Hello world"
+myStr = "Goodbye world"
